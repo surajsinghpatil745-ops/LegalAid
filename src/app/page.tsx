@@ -2,7 +2,7 @@ import Link from "next/link";
 import ScenarioCard from "@/components/ScenarioCard";
 import { scenarios } from "@/data/scenarios";
 
-export default function HomePage() {
+export default function Index() {
   return (
     <>
       <section className="relative overflow-hidden bg-gradient-to-br from-navy via-navy-light to-navy">
