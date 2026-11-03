@@ -1,0 +1,880 @@
+================================================================
+LEGALAID INDIA — CHATBOT KNOWLEDGE BASE
+Complete Legal Reference for Indian Citizens
+Version 1.0 | Covers Laws up to 2025
+================================================================
+
+INSTRUCTIONS FOR AI (SYSTEM CONTEXT):
+You are LegalAID, a friendly Indian legal assistant. Use this knowledge base
+to answer questions from ordinary Indian citizens in simple language. Always:
+- Cite specific section numbers
+- Mention exact fine amounts in ₹
+- Warn about common scams
+- Recommend helplines for serious matters
+- Be empathetic — users are often scared or stressed
+================================================================
+
+
+================================================================
+SECTION 1: TRAFFIC & MOTOR VEHICLES LAW
+(Motor Vehicles Act 1988, amended 2019)
+================================================================
+
+--- 1.1 CHALLANS (FINES) UNDER MV ACT 2019 ---
+
+Offense                          | Fine Amount        | Section
+---------------------------------|--------------------|--------
+No helmet (rider)                | ₹1,000             | Sec 194D
+No helmet (pillion)              | ₹1,000             | Sec 194D
+No seat belt                     | ₹1,000             | Sec 194B
+Using mobile while driving       | ₹1,000–5,000       | Sec 184
+Drunk driving (first offense)    | ₹10,000 or 6 months jail | Sec 185
+Drunk driving (repeat offense)   | ₹15,000 or 2 years jail  | Sec 185
+Overspeeding (LMV)               | ₹1,000–2,000       | Sec 183
+Overspeeding (medium vehicle)    | ₹2,000–4,000       | Sec 183
+Driving without license          | ₹5,000             | Sec 181
+Driving with invalid license     | ₹5,000             | Sec 182
+No insurance                     | ₹2,000 or 3 months jail | Sec 196
+No RC (Registration Certificate) | ₹2,000             | Sec 192
+Triple riding (two-wheeler)      | ₹1,000             | Sec 194C
+Jumping red light                | ₹1,000–5,000       | Sec 184
+No PUC (Pollution Certificate)   | ₹1,000–10,000      | Sec 190(2)
+Racing on public road            | ₹5,000 or 3 months jail | Sec 189
+Driving wrong side               | ₹1,000–5,000       | Sec 184
+Parking in no-parking zone       | ₹500–2,000         | Sec 122
+Overloading (goods vehicle)      | ₹20,000 + ₹2,000/extra tonne | Sec 194
+Not giving way to emergency vehicle | ₹10,000         | Sec 194E
+Driving without fastened seatbelt by child | ₹1,000   | Sec 194B
+Dangerous driving                | ₹1,000–5,000       | Sec 184
+
+--- 1.2 VEHICLE TOWING — WHAT TO DO ---
+
+When police tow your vehicle from a no-parking zone:
+
+Step 1: Find where vehicle was towed
+- Ask the traffic officer on site OR
+- Call your local traffic helpline (Mumbai: 022-22621855, Delhi: 011-25844444)
+- Check city's traffic app (Mumbai: MumbaiTraffic, Delhi: Dilli Police)
+- Vehicle is taken to nearest police impound yard / towing compound
+
+Step 2: Documents required to release vehicle
+- Original RC (Registration Certificate)
+- Valid driving license
+- Valid insurance certificate
+- Valid PUC certificate
+- Your Aadhaar card or any government ID
+- If not the owner: authorization letter from owner + their ID
+
+Step 3: Pay the fine
+- Towing charges: ₹500–₹2,000 depending on city and vehicle type
+- Parking fine: ₹500–₹2,000
+- Storage charges: ₹50–₹200 per day after first 24 hours
+- Pay at the towing yard or authorized center (ask for receipt ALWAYS)
+- Online payment available in cities like Mumbai, Delhi, Bengaluru
+
+Step 4: Get your vehicle back
+- Collect vehicle only after payment
+- Inspect vehicle before taking — note any damage on the receipt
+- If damage found, complain to Traffic Superintendent immediately
+
+IMPORTANT — AVOID SCAMS:
+- NEVER pay cash to individual police officers
+- NEVER pay a broker/agent/middleman to release your vehicle — it is illegal
+- Always insist on official receipt for payment
+- If police demand extra money, note their name/badge number and complain to ACB (Anti-Corruption Bureau)
+- Official helpline: 1064 (Anti-Corruption)
+
+--- 1.3 E-CHALLAN SYSTEM ---
+
+- All traffic fines are now digital (e-challan) in most cities
+- Check your challan at: echallan.parivahan.gov.in
+- Pay online using vehicle number
+- If you believe challan is wrong, you can contest it at the Traffic Court
+- Un-paid challans can result in vehicle registration renewal being blocked
+
+--- 1.4 LICENSE RELATED ---
+
+Learner's License:
+- Apply at: sarathi.parivahan.gov.in
+- Fee: ₹150–₹200
+- Valid for 6 months
+- Must display "L" board while driving
+
+Driving License:
+- Apply after 30 days of learner's license
+- Fee: ₹300–₹500
+- Driving test conducted at RTO
+
+International Driving Permit:
+- Available at regional transport offices
+- Fee: ₹500
+- Valid in 100+ countries
+
+Duplicate License (if lost):
+- File FIR at police station first
+- Apply at RTO with FIR copy + Aadhaar
+- Fee: ₹200–₹500
+
+--- 1.5 ACCIDENT LAW ---
+
+If you're in an accident (Section 134 MV Act):
+- Legal duty to help injured person
+- Call 108 (ambulance) immediately
+- Take to nearest hospital — hospital CANNOT refuse treatment (Supreme Court ruling)
+- Inform police within 24 hours
+- Do NOT flee the scene — hit and run is a criminal offense under Section 161 MV Act
+
+Third Party Insurance (mandatory):
+- Covers injury/death to third party
+- Claim through Motor Accident Claims Tribunal (MACT)
+- No time limit for third-party claim (Supreme Court ruling 2022)
+- Compensation calculated as per structured formula in MV Act
+
+Good Samaritan Law (Section 134A MV Act 2019):
+- If you help an accident victim, police CANNOT detain you for questioning
+- You cannot be forced to be a witness
+- Hospital cannot demand payment before treating accident victim if you brought them
+
+
+================================================================
+SECTION 2: POLICE POWERS AND CITIZEN RIGHTS
+(Code of Criminal Procedure / Bharatiya Nagarik Suraksha Sanhita 2023)
+================================================================
+
+--- 2.1 MIDNIGHT / LATE NIGHT ON STREETS ---
+
+Q: Can police arrest you just for being on the street at midnight?
+A: NO. Walking on a public street at any time is NOT an offense.
+
+However, police can:
+- Ask for your identity (you must identify yourself but not mandatorily show ID)
+- Detain you for questioning if they have "reasonable suspicion" — maximum 24 hours without FIR
+- Act under Section 151 CrPC / BNSS: preventive arrest if they believe you are about to commit a cognizable offense
+
+Your rights when stopped:
+- Ask why you are being stopped
+- You do not have to show your phone or unlock it without a warrant
+- You are NOT required to go to the police station unless formally arrested
+- If arrested, police MUST inform you of the reason (Article 22, Constitution)
+
+Night Patrolling:
+- Police have power to check suspicious persons under Section 149 CrPC
+- Curfew situations: different rules apply, follow local orders
+
+--- 2.2 ARREST — YOUR RIGHTS (Article 22 + BNSS 2023) ---
+
+When you are arrested:
+1. Police MUST tell you the reason for arrest
+2. Police MUST inform a family member or friend of your arrest (Section 50A CrPC)
+3. You have the right to consult a lawyer immediately (Article 22(1))
+4. You MUST be produced before a magistrate within 24 hours of arrest (Article 22(2))
+5. You cannot be held beyond 24 hours without magistrate's permission
+6. You have the right to remain silent (cannot be forced to confess)
+7. Female accused: must be arrested by female officer, cannot be arrested after sunset or before sunrise except in serious cases with magistrate's written permission (Section 46(4) CrPC)
+
+Illegal arrest / wrongful detention:
+- File Habeas Corpus petition in High Court
+- Complain to District Superintendent of Police
+- Complain to State Human Rights Commission
+- Complain to National Human Rights Commission (NHRC): nhrc.nic.in
+
+--- 2.3 POLICE SEARCH POWERS ---
+
+Search of person:
+- Police can search you if you are arrested
+- Cannot strip search in public
+- Female must be searched only by female officer (Section 51 CrPC)
+
+Search of premises:
+- Police need a search warrant from magistrate for your home
+- Exception: if police are in "hot pursuit" of a criminal or believe evidence will be destroyed
+- Warrant must specify the place to be searched
+- Two independent witnesses (panchas) must be present during search
+- Panchas should be from the locality, not police officers
+- You are entitled to a copy of the search memo
+
+Your phone / digital devices:
+- Police CANNOT access your phone without a warrant
+- Unlocking your phone cannot be forced
+- However, under Sec 91 CrPC, court can order you to produce documents
+- Exception: anti-terror laws (UAPA) give wider search powers
+
+--- 2.4 FIR — FIRST INFORMATION REPORT ---
+
+What is an FIR:
+- Official record of a criminal complaint
+- Mandatory for cognizable offenses (serious crimes: theft, assault, rape, murder)
+- Police CANNOT refuse to file FIR for cognizable offense (Supreme Court — Lalita Kumari case 2013)
+
+How to file FIR:
+- Go to police station in whose jurisdiction the crime occurred
+- Give written complaint OR oral complaint (police must write it down)
+- Read it before signing
+- Get a free copy of FIR (your legal right)
+- FIR copy is free — do NOT pay for it
+
+If police refuse to file FIR:
+- Send complaint by post to Superintendent of Police (SP)
+- File complaint before Judicial Magistrate under Section 156(3) CrPC
+- File online FIR on state police websites (available in most states)
+- Complain to Human Rights Commission
+
+Zero FIR:
+- Can be filed at ANY police station regardless of jurisdiction
+- Police must transfer it to the correct station
+- Introduced especially for rape and serious assault cases
+
+--- 2.5 IF CAUGHT IN A FIGHT / BRAWL ---
+
+What police can do:
+- Arrest all parties under IPC Sections 107, 151 (preventive arrest)
+- Book for assault (Section 351–352 IPC / BNS)
+- Book for affray (fighting in public) Section 159–160 IPC / BNS: fine ₹100–₹1,000
+
+What you should do:
+- Stay calm, do NOT resist police
+- Do NOT use abusive language with police (can be charged under Section 353 IPC)
+- Clearly state if you are the victim
+- Ask for medical examination immediately if you are injured (medico-legal case / MLC)
+- Contact a lawyer or family immediately
+- Police must produce you before magistrate within 24 hours
+
+Bailable vs Non-bailable offenses:
+- Simple fight/assault: usually bailable — you can get bail at the police station itself
+- Serious assault with weapon: non-bailable — bail from court only
+- Bail amount for simple brawl: usually ₹5,000–₹25,000 personal bond
+
+--- 2.6 CUSTODIAL RIGHTS ---
+
+If in police custody:
+- Right to food and water
+- Right to medical treatment if injured
+- Right to meet lawyer
+- Right to inform family
+- Cannot be kept in custody beyond 24 hours without magistrate's remand
+- Remand can be extended to 15 days police custody, then judicial custody (jail)
+
+Custodial torture / third degree:
+- Illegal under Article 21 (Right to Life)
+- Complain to: State Human Rights Commission / NHRC
+- File complaint with court
+- File FIR against the officer
+
+--- 2.7 SECTION 144 CrPC (Prohibitory Orders) ---
+
+What it means:
+- Prohibits gathering of 5 or more people in an area
+- Usually imposed during riots, protests, festivals to prevent trouble
+
+If Section 144 is in force in your area:
+- Do NOT gather in groups
+- Do NOT carry weapons (even sticks)
+- Violation: up to 3 years imprisonment and fine
+- Check local news or district website for current orders
+
+
+================================================================
+SECTION 3: TENANT & HOUSING RIGHTS
+(Rent Control Acts vary by state + Transfer of Property Act)
+================================================================
+
+--- 3.1 SECURITY DEPOSIT ---
+
+Rules:
+- No national law limits deposit amount, but most state Rent Control Acts say 2–3 months rent is standard
+- Maharashtra: Rent Control Act 1999 — deposit should not exceed 3 months rent in Mumbai
+- Landlord MUST return deposit within 15–30 days of vacating (varies by state)
+- Deductions only allowed for actual damage beyond normal wear and tear
+
+If landlord refuses to return deposit:
+Step 1: Send written demand notice by speed post or WhatsApp (keep screenshot)
+Step 2: If no response in 15 days, file complaint at Rent Control Court (Rent Authority)
+Step 3: For amounts below ₹20 lakh: Consumer Court / Small Causes Court
+Step 4: Legal notice from lawyer (₹500–₹2,000 for drafting)
+
+--- 3.2 EVICTION RIGHTS ---
+
+Landlord CANNOT evict you without:
+- Proper legal notice (15–30 days depending on state)
+- Valid reason: non-payment of rent, subletting without permission, illegal use of property, personal requirement by owner
+- Court order if tenant contests eviction
+
+If landlord uses force / illegal eviction:
+- Call police (it is illegal — Sec 441 IPC / criminal trespass)
+- Seek stay order from Rent Control Court
+- Landlord can be charged with wrongful eviction
+
+--- 3.3 RENT AGREEMENT ---
+
+Key points:
+- Must be registered if tenancy is more than 11 months (Registration Act)
+- 11-month agreements are NOT mandatory to register but registering is safer
+- Stamp duty: usually ₹100–₹500 for residential + registration fee
+- Model Tenancy Act 2021: Central Government template — check if your state has adopted it
+
+What rent agreement must contain:
+- Names of landlord and tenant
+- Property address
+- Monthly rent amount
+- Security deposit amount
+- Duration of tenancy
+- Notice period for vacating
+- Maintenance responsibilities
+
+--- 3.4 LANDLORD OBLIGATIONS ---
+
+Landlord must:
+- Maintain structural integrity of property
+- Provide water and electricity connection
+- Not enter property without prior notice (usually 24 hours)
+- Not cut off electricity/water supply to force eviction (illegal)
+- Not harass tenant in any way
+
+--- 3.5 PAYING GUEST (PG) RIGHTS ---
+
+PG agreements are covered under:
+- Indian Contract Act 1872
+- Consumer Protection Act 2019 (if services are deficient)
+
+PG owner cannot:
+- Impose illegal restrictions (no food from outside, no guests)
+- Withhold deposit without valid reason
+- Forcibly evict without notice
+
+Complain to: Consumer Forum for deficiency of service
+
+
+================================================================
+SECTION 4: CONSUMER RIGHTS
+(Consumer Protection Act 2019)
+================================================================
+
+--- 4.1 CONSUMER COURTS — THREE LEVELS ---
+
+District Consumer Disputes Redressal Commission (DCDRC):
+- Claims up to ₹50 lakh
+- File in the district where you live OR where transaction happened
+- Filing fee: ₹100–₹5,000 (based on claim amount)
+
+State Consumer Disputes Redressal Commission (SCDRC):
+- Claims between ₹50 lakh and ₹2 crore
+- Appeal from District Commission
+
+National Consumer Disputes Redressal Commission (NCDRC):
+- Claims above ₹2 crore
+- ncdrc.nic.in
+
+--- 4.2 ONLINE FILING ---
+
+- File online at: consumerhelpline.gov.in / edaakhil.nic.in
+- National Consumer Helpline: 1915 (toll-free, 24x7)
+
+--- 4.3 DEFECTIVE PRODUCTS ---
+
+Your rights:
+- Replacement of product
+- Refund of full price
+- Compensation for injury caused by defective product
+- Producer and seller both liable
+
+Time limit to file complaint: Within 2 years of cause of action (now extended by court if valid reason)
+
+--- 4.4 DEFICIENT SERVICES ---
+
+Applies to:
+- Banking and insurance
+- Housing and construction
+- Medical negligence (consumer forum)
+- Transport services
+- Telecom services
+- Hotels and restaurants
+- Educational institutions (in some cases)
+
+--- 4.5 E-COMMERCE / ONLINE SHOPPING ---
+
+Your rights under Consumer Protection (E-Commerce) Rules 2020:
+- Platform must display seller info, product details, return policy clearly
+- Must resolve grievance within 48 hours (acknowledge) and 30 days (resolve)
+- Cannot charge more than displayed price
+- Mandatory return/refund window as per policy
+- Fake reviews are now illegal
+
+Grievance Officer:
+- Every e-commerce platform must have a grievance officer
+- Must respond within 48 hours
+
+Steps if product not received / defective:
+1. Raise complaint on platform app/website
+2. Email grievance officer (find email in "Contact Us")
+3. Complain to National Consumer Helpline: 1915
+4. File on consumerhelpline.gov.in
+5. File at District Consumer Forum
+
+--- 4.6 BANKING AND FINANCIAL SERVICES ---
+
+Unauthorized transaction / fraud:
+- Report to bank immediately (within 3 days = zero liability for customer)
+- Report 3–7 days = limited liability as per RBI guidelines
+- Call National Cybercrime helpline: 1930
+- File complaint at cybercrime.gov.in
+
+ATM fraud / Skimming:
+- Report to bank and police
+- Bank must resolve within 90 days (RBI circular)
+
+Loan harassment by recovery agents:
+- Recovery agents cannot visit before 7 AM or after 7 PM (RBI guidelines)
+- Cannot use abusive language or threaten
+- Complaint to RBI Ombudsman: rbi.org.in/Ombudsman
+
+Insurance claim rejected:
+- File complaint with Insurance Ombudsman (free, no lawyer needed)
+- List at irdai.gov.in
+- IRDAI helpline: 155255
+
+--- 4.7 FLIGHT / TRAIN / BUS TRAVEL ---
+
+Flight cancellation (DGCA rules):
+- If airline cancels: full refund + compensation ₹5,000–₹10,000 depending on notice period
+- If you cancel (24 hours before): refund minus cancellation charges
+- Denied boarding (overboarding): ₹10,000–₹20,000 compensation + refund
+- Delay more than 2 hours: meals and refreshments mandatory
+- Delay more than 6 hours: option for full refund
+
+Complain to: DGCA at dgca.gov.in or AirSewa portal
+
+Train — IRCTC:
+- TDR (Ticket Deposit Receipt) for refunds
+- File within 30 minutes of scheduled departure for max refund
+- Complain at railmadad.indianrailways.gov.in or helpline 139
+
+
+================================================================
+SECTION 5: WORKPLACE AND LABOUR RIGHTS
+================================================================
+
+--- 5.1 WAGES ---
+
+Minimum Wage Act 1948 / Code on Wages 2019:
+- Minimum wage varies by state and category of work
+- Check your state's minimum wage notification (Labour Department website)
+- Maharashtra unskilled: ~₹15,000/month (2024)
+- Payment must be on time: 7th of next month for monthly paid workers
+- Non-payment of wages: Complaint to Labour Commissioner
+
+--- 5.2 PROVIDENT FUND (PF) ---
+
+Employees' Provident Fund Act 1952:
+- Mandatory for companies with 20+ employees
+- Employee contributes 12% of basic salary
+- Employer contributes 12% (3.67% to PF + 8.33% to EPS pension scheme)
+- Check your PF balance: epfindia.gov.in / UMANG app
+
+If employer not depositing PF:
+- File complaint at EPFO (Employees' Provident Fund Organization) regional office
+- Helpline: 1800-118-005 (toll-free)
+- File online at epfigms.gov.in
+
+Withdraw PF:
+- After 2 months of unemployment
+- For medical emergency, marriage, home loan, education
+- Apply online via UAN (Universal Account Number) on epfindia.gov.in
+
+--- 5.3 ESI (EMPLOYEE STATE INSURANCE) ---
+
+- For employees earning up to ₹21,000/month in companies with 10+ workers
+- Provides medical care, sick pay, maternity benefit
+- Complain about non-coverage at ESIC regional office (esic.in)
+
+--- 5.4 SEXUAL HARASSMENT AT WORKPLACE ---
+
+POSH Act 2013 (Prevention of Sexual Harassment):
+- Every workplace with 10+ employees must have Internal Complaints Committee (ICC)
+- File complaint to ICC within 3 months of incident
+- Inquiry must be completed within 60 days
+- Complainant cannot be transferred or victimized
+- If no ICC, complaint to Local Complaints Committee (LCC) at District level
+- National helpline: SHe-Box (shebox.wcd.gov.in)
+
+--- 5.5 WRONGFUL TERMINATION ---
+
+If terminated without proper cause/notice:
+- Industrial Disputes Act 1947 applies to workers
+- Notice period: as per contract or minimum 30 days
+- Severance: 15 days salary per year of service for retrenchment
+- Complain to: Labour Commissioner, Industrial Tribunal
+
+Gratuity:
+- Payable after 5 years of continuous service
+- Formula: Last drawn salary × 15/26 × number of years of service
+- Non-payment: Complaint to Controlling Authority under Payment of Gratuity Act
+
+--- 5.6 MATERNITY LEAVE ---
+
+Maternity Benefit Act 2017:
+- 26 weeks paid maternity leave for first 2 children
+- 12 weeks for 3rd child onwards
+- 12 weeks for adoptive mothers / commissioning mothers
+- Employer cannot dismiss a woman on maternity leave
+- Crèche facility mandatory for companies with 50+ employees
+
+--- 5.7 CHILD LABOUR ---
+
+Child Labour (Prohibition and Regulation) Amendment Act 2016:
+- Complete ban on employment of children below 14 years
+- Complete ban on employment of adolescents (14–18 years) in hazardous industries
+- Report child labour: childline.in or call 1098
+
+
+================================================================
+SECTION 6: FAMILY LAW
+================================================================
+
+--- 6.1 MARRIAGE ---
+
+Hindu Marriage Act 1955 (for Hindus, Sikhs, Buddhists, Jains):
+- Minimum age: 18 (female), 21 (male) — child marriage is illegal
+- Must be registered at Sub-Registrar's office
+- Both parties must be unmarried (bigamy is offense under Sec 494 IPC)
+
+Special Marriage Act 1954:
+- For inter-religious marriages
+- For those who want civil marriage
+- Notice must be given 30 days in advance
+
+--- 6.2 DIVORCE ---
+
+Grounds for divorce (Hindu Marriage Act):
+- Adultery
+- Cruelty (mental or physical)
+- Desertion for 2+ years
+- Conversion to another religion
+- Mental illness (severe)
+- Leprosy
+- Venereal disease
+- Renounced the world
+- Not heard alive for 7+ years
+
+Mutual Consent Divorce:
+- Both parties agree to divorce
+- First motion petition + 6 months waiting period (can be waived by court)
+- Second motion petition
+- Faster: 3–6 months typically
+- Filing fee: ₹500–₹1,000 at Family Court
+
+Contested Divorce:
+- One party files, other contests
+- Can take 2–5 years
+- Lawyer strongly recommended
+
+--- 6.3 MAINTENANCE / ALIMONY ---
+
+Section 125 CrPC (now Section 144 BNSS 2023):
+- Wife, children, parents can claim maintenance
+- Interim maintenance during case proceedings
+- No time limit to file
+- Amount based on income of husband/spouse
+
+--- 6.4 DOMESTIC VIOLENCE ---
+
+Protection of Women from Domestic Violence Act 2005:
+- Covers physical, sexual, verbal, emotional, economic abuse
+- Applies to wife, live-in partner, female relatives
+- Can get Protection Order, Residence Order, Monetary Relief, Custody Order in same petition
+- Magistrate can issue order the same day in emergency (ex-parte order)
+
+How to file:
+- Contact Protection Officer (in every district)
+- Go to local police station
+- Go to Family Court / Magistrate Court directly
+- Women helpline: 181
+- NCW (National Commission for Women): ncwapps.nic.in
+
+--- 6.5 PROPERTY RIGHTS ---
+
+Hindu Succession Act (amended 2005):
+- Daughters have equal rights as sons in ancestral property (Supreme Court, August 2020)
+- This applies even if father died before 2005
+- Daughters can claim ancestral property share at any time
+
+Women's stridhan:
+- Jewelry, gifts received before/during/after marriage = her exclusive property
+- Husband / in-laws have no right over stridhan
+- Taking stridhan forcefully = criminal breach of trust (Section 405 IPC)
+
+--- 6.6 CHILD CUSTODY ---
+
+Guardians and Wards Act 1890:
+- Best interest of the child is the paramount consideration
+- Mother usually gets custody of young children (below 5)
+- Father usually gets custody of older boys (but not rule)
+- Visitation rights cannot be denied to non-custodial parent
+
+Parental child abduction:
+- Taking child out of India without consent = criminal offense
+- File complaint with police under Section 363 IPC (kidnapping)
+
+
+================================================================
+SECTION 7: RIGHT TO INFORMATION (RTI)
+(Right to Information Act 2005)
+================================================================
+
+What you can ask:
+- Any information from Central/State government offices
+- Copies of documents, records, contracts
+- Status of applications, complaints
+- Budget and expenditure records
+
+How to file RTI:
+Step 1: Write application addressed to Public Information Officer (PIO) of concerned department
+Step 2: Pay ₹10 fee (by postal order, cash, or online for Central Govt)
+Step 3: Submit at department office or online at rtionline.gov.in (Central Govt)
+Step 4: Response within 30 days (48 hours for life/liberty matters)
+
+Appeal process:
+- First Appeal to First Appellate Authority: within 30 days of reply (or non-reply)
+- Second Appeal to Central/State Information Commission: within 90 days
+- Fine of ₹250/day (max ₹25,000) can be imposed on PIO for delay
+
+Exemptions (what you CANNOT get via RTI):
+- Information that threatens national security
+- Information received in confidence from foreign governments
+- Cabinet papers until decision is made
+- Personal information with no public interest
+
+RTI helpline: 1800-11-7002
+
+
+================================================================
+SECTION 8: CYBER CRIME AND DIGITAL RIGHTS
+================================================================
+
+--- 8.1 TYPES OF CYBER CRIMES ---
+
+Online fraud / UPI fraud:
+- Report immediately to: 1930 (National Cybercrime Helpline)
+- File at: cybercrime.gov.in
+- Inform your bank (within 3 days for zero liability)
+
+OTP fraud / Phishing:
+- Never share OTP with anyone — banks will NEVER ask for OTP
+- Report to 1930 and cybercrime.gov.in
+
+Social media abuse / cyberbullying:
+- Section 67 IT Act: Publishing obscene material online — up to 5 years + ₹10 lakh fine
+- Section 66A IT Act: Struck down by Supreme Court but offline harassment IPC sections apply
+- Report to platform first, then cybercrime portal
+
+Identity theft:
+- Section 66C IT Act: 3 years imprisonment + ₹1 lakh fine
+- File FIR + complain to cybercrime portal
+
+--- 8.2 INTIMATE PARTNER DIGITAL ABUSE ---
+
+Non-consensual sharing of intimate images (Section 67A IT Act):
+- Up to 7 years imprisonment + fine
+- Victim can file complaint directly at cybercrime.gov.in
+- Cybercrime helpline: 1930
+
+Online stalking:
+- Section 354D IPC / BNS: Up to 3 years imprisonment
+
+--- 8.3 DATA PROTECTION ---
+
+Digital Personal Data Protection Act 2023:
+- You have right to know what data is collected about you
+- Right to correction and erasure of data
+- Companies must get your consent before processing personal data
+- Data Protection Board to handle complaints (operational soon)
+
+
+================================================================
+SECTION 9: IMPORTANT HELPLINES AND CONTACTS
+================================================================
+
+Emergency:
+- Police: 100
+- Ambulance: 108
+- Fire: 101
+- Disaster Management: 108
+- National Emergency Number: 112
+
+Legal Aid:
+- District Legal Services Authority (DLSA) — Free Legal Aid: 15100
+- NALSA (National Legal Services Authority): nalsa.gov.in
+- State Legal Services Authority: available in each state capital
+
+Women and Children:
+- Women Helpline: 181
+- Domestic Violence Helpline: 181
+- Child Helpline (Childline): 1098
+- NCW Helpline: 7827170170
+- Sexual Harassment (SHe-Box): shebox.wcd.gov.in
+
+Consumer:
+- National Consumer Helpline: 1915
+- IRDAI (Insurance): 155255
+- SEBI (Securities): 1800 22 7575
+- RBI Ombudsman: rbi.org.in
+
+Cyber Crime:
+- National Cybercrime Helpline: 1930
+- Cybercrime Portal: cybercrime.gov.in
+
+Labour:
+- EPFO (Provident Fund): 1800-118-005
+- ESIC: 1800-11-2526
+- Labour Commissioner: State-specific
+
+Anti-Corruption:
+- CVC (Central Vigilance Commission): 1964
+- ACB (Anti-Corruption Bureau): State-specific, or call 1064
+
+Senior Citizens:
+- Elder Line: 14567
+
+Mental Health:
+- iCall: 9152987821
+- Vandrevala Foundation: 1860-2662-345
+
+Traffic:
+- Mumbai Traffic: 022-22621855
+- Delhi Traffic: 011-25844444
+- Bengaluru Traffic: 080-22868444
+- Chennai Traffic: 044-28447777
+
+Online Portals:
+- eCourts (case status): ecourts.gov.in
+- RTI (Central): rtionline.gov.in
+- E-Challan: echallan.parivahan.gov.in
+- Vehicle RC/DL check: parivahan.gov.in
+- Consumer Forum: edaakhil.nic.in
+- Voter ID: nvsp.in
+- Aadhaar: uidai.gov.in
+
+
+================================================================
+SECTION 10: COMMON SCAMS AND HOW TO AVOID THEM
+================================================================
+
+1. TOWING BROKER SCAM
+   Scam: Someone near towing yard offers to release your vehicle for ₹500 cash
+   Reality: They have no authority. You end up paying both them and the official fine.
+   Avoid: Always go directly to the police yard. Pay only at official counter. Get receipt.
+
+2. FAKE POLICE SCAM
+   Scam: Person in uniform demands cash for minor traffic violation
+   Reality: Traffic challans are now digital. No officer can demand cash on spot.
+   Avoid: Ask for official challan receipt. All fines must be digital.
+   Report: Badge number + complaint to SP office or ACB (1064)
+
+3. BAIL AGENT SCAM
+   Scam: Agent at police station promises quick bail for cash
+   Reality: For bailable offenses you can get bail directly from police station free.
+   Avoid: Call DLSA (15100) for free legal aid. Know that sureties must sign bond, not pay cash.
+
+4. RTI AGENT SCAM
+   Scam: Agent charges ₹500–₹2,000 to file RTI on your behalf
+   Reality: RTI application costs only ₹10. You can file it yourself.
+   Avoid: File directly at rtionline.gov.in for Central Govt or at concerned department.
+
+5. CONSUMER COURT AGENT SCAM
+   Scam: Agent charges ₹5,000–₹20,000 to file consumer complaint
+   Reality: Consumer courts have very low fees (₹100–₹5,000 max). You can file yourself.
+   Avoid: File at edaakhil.nic.in yourself. Call 1915 for guidance.
+
+6. PROPERTY BROKER SCAM
+   Scam: Broker takes advance from both buyer and seller and disappears
+   Reality: RERA (Real Estate Regulation Act 2016) regulates brokers and developers
+   Avoid: Only deal with RERA-registered brokers and projects (rera.gov.in for your state)
+
+7. JOB FRAUD
+   Scam: Company asks you to pay for training, kit, deposit before joining
+   Reality: No legitimate company charges employees to join
+   Avoid: Never pay to get a job. Report to cybercrime.gov.in
+
+8. LOAN APP HARASSMENT
+   Scam: Illegal loan apps charge 300%+ interest and harass borrowers
+   Reality: RBI-regulated lenders cannot harass, and interest rates have limits
+   Avoid: Only borrow from RBI-registered NBFCs/banks. Report harassment to 1930 and RBI.
+
+
+================================================================
+SECTION 11: BAILABLE vs NON-BAILABLE OFFENSES (QUICK REFERENCE)
+================================================================
+
+BAILABLE (You can get bail at police station itself):
+- Simple assault (Section 323 IPC)
+- Public nuisance
+- Minor traffic violations
+- Cheating below certain amount
+- Defamation
+- Simple theft (first offense)
+- Minor drug possession for personal use (in some states)
+
+NON-BAILABLE (Bail only from court):
+- Murder (Section 302 IPC)
+- Rape (Section 376 IPC)
+- Robbery and dacoity
+- Serious assault with weapon (Section 326 IPC)
+- Kidnapping
+- Drug trafficking (NDPS Act)
+- Terrorism (UAPA)
+- Serious financial fraud
+
+Anticipatory Bail (Section 438 CrPC / BNSS):
+- Can apply for bail in anticipation of arrest
+- Applied at Sessions Court or High Court
+- Useful when you fear false arrest
+
+
+================================================================
+SECTION 12: KEY CONSTITUTIONAL RIGHTS EVERY INDIAN MUST KNOW
+================================================================
+
+Fundamental Rights (Part III, Constitution of India):
+
+Article 14: Right to Equality — No discrimination before law
+Article 15: No discrimination based on religion, race, caste, sex, place of birth
+Article 16: Equal opportunity in public employment
+Article 17: Abolition of Untouchability — practicing untouchability is a criminal offense
+Article 19: Freedom of speech, peaceful assembly, movement, profession
+Article 20: Protection against arbitrary conviction (cannot be tried twice for same offense)
+Article 21: Right to Life and Personal Liberty — most powerful right
+           - Includes right to privacy (Supreme Court, Puttaswamy 2017)
+           - Includes right to live with dignity
+           - Includes right to education
+Article 21A: Right to free and compulsory education for children 6–14 years
+Article 22: Protection against arbitrary arrest and detention
+           - Must be informed of reason for arrest
+           - Must be produced before magistrate within 24 hours
+           - Right to consult lawyer
+Article 23: Prohibition of human trafficking and forced labor
+Article 24: No child labor in factories/hazardous employment below age 14
+Article 25-28: Freedom of religion
+Article 29-30: Cultural and educational rights of minorities
+Article 32: Right to approach Supreme Court for enforcement of fundamental rights
+
+Directive Principles (guidance for State policy, not directly enforceable but important):
+- Equal pay for equal work (Article 39)
+- Free legal aid (Article 39A)
+- Living wage for workers (Article 43)
+- Uniform Civil Code (Article 44) — not yet implemented
+
+Fundamental Duties (Article 51A):
+- Respect Constitution, national flag, national anthem
+- Protect sovereignty and integrity of India
+- Promote harmony and spirit of brotherhood
+- Protect environment and wildlife
+- Develop scientific temper
+
+
+================================================================
+END OF KNOWLEDGE BASE
+================================================================
+
+DISCLAIMER: This document provides general legal information for
+educational purposes only. Laws may change. For specific legal
+advice, consult a qualified advocate. LegalAID is not a law firm.
+================================================================
