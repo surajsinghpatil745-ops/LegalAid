@@ -9,22 +9,6 @@ Your personal legal guide for India. Understand laws, know your rights, learn ab
 - **Find Legal Help** — Government free legal aid (NALSA, consumer helpline) and advocate directories
 - **Rights, Fines & Documents** — Every guide includes your rights, possible penalties, required documents, and scam warnings
 
-## Chatbot Setup (Optional)
-
-The chatbot works in two modes:
-
-1. **Guided mode** (default) — Uses built-in scenario matching, no API key needed
-2. **AI mode** — Full conversational AI with streaming responses when OpenAI is configured
-
-To enable AI mode:
-
-```bash
-cp .env.local.example .env.local
-# Add your OpenAI or OpenRouter key to .env.local
-# For OpenRouter: OPENAI_BASE_URL=https://openrouter.ai/api/v1 and OPENAI_MODEL=openai/gpt-4o-mini
-```
-
-OpenAI-compatible API powers **Ask LegalAID** and **Document Tools** (set `DOCUMENT_AI_ENHANCE=true` for AI document analysis).
 
 ## Getting Started
 
